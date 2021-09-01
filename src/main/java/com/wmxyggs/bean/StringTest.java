@@ -9,7 +9,7 @@ public class StringTest {
 
         String s2= new String("abc");
 
-        System.out.println("bingo ");
+        System.out.println("bingo");
 
         System.out.println(s == s2);
 
